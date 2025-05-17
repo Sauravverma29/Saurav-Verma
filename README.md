@@ -1,9 +1,9 @@
-<img align="centre" alt="Data Analyst" width="100%" src="da1.gif">
 <h1 align="center">Hi there, I'm Saurav Verma 👋</h1>
 <h3 align="center">📊 Aspiring Data Analyst  </h3>
 
 ---
-<img align="right" alt="Data Analyst" width="350" src="da2.gif">
+<img align="right" alt="Data Analyst" width="275" src="da1.gif">
+
 
 ## 🧠 About Me
 
@@ -19,11 +19,10 @@
 <div align="center">
 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
