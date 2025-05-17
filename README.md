@@ -2,6 +2,7 @@
 <h3 align="center">📊 Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python 🐍</h3>
 
 ---
+<img align="right" alt="Data Analyst" width="400" src="https://camo.githubusercontent.com/db51ea9f00944d230354001b5c7ef89cb9ab884bc77135257ce02b65a177ab45/68747470733a2f2f7777772e73617276696b612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30332f4261636b656e642d446576656c6f7065722d507974686f6e2d4749462d44726962626c652e676966.png">
 
 ## 🧠 About Me
 
