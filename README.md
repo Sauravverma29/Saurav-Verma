@@ -1,6 +1,6 @@
+<img align="centre" alt="Data Analyst" width="100%" src="da1.gif">
 <h1 align="center">Hi there, I'm Saurav Verma 👋</h1>
 <h3 align="center">📊 Aspiring Data Analyst  </h3>
-<h3 align="center"> Excel | SQL | Power BI | Tableau | Python </h3>
 
 ---
 <img align="right" alt="Data Analyst" width="350" src="da2.gif">
