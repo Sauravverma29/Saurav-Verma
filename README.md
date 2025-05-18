@@ -1,7 +1,19 @@
 <h1 align="center">Hi there, I'm Saurav Verma 👋</h1>
 <h3 align="center">📊 Aspiring Data Analyst  </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&center=true&vCenter=true&width=480&lines=Data+Driven.+Detail+Oriented.+Insight+Focused." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions...;Passionate+about+analytics+%26+insights;Let's+transform+raw+data+into+real+impact!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&center=true&vCenter=true&width=600&lines=Data+is+the+new+oil%2C+but+insight+is+the+refinery.%3BWhere+others+see+numbers%2C+I+see+opportunity.%3BFrom+datasets+to+decisions+%E2%80%94+let+data+drive+the+future." alt="Typing SVG" />
+</p>
 
 ---
+
 <img align="right" alt="Data Analyst" width="275" src="da1.gif">
 
 
@@ -9,7 +21,7 @@
 
 💡 I'm a passionate **Data Analyst** with a strong foundation in **Economics** and over **6 months** of real-world experience transforming raw data into impactful business insights. I enjoy working with data to solve problems, uncover trends, and support strategic decisions.
 
-📚 Currently sharpening my skills through real-world projects, certifications, and continuous learning in data technologies.
+📚 Currently sharpening my skills through real-world projects, and continuous learning in data technologies.
 
 
 ---
