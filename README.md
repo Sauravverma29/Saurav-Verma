@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurav Verma </h1>
 <h3 align="center">📊 Aspiring Data Analyst 📈 </h3>
 <h3 align="center"> Data Driven. Detail Oriented. Insight Focused.  </h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions...;Passionate+about+analytics+%26+insights;Let's+transform+raw+data+into+real+impact!" alt="Typing SVG" />
 </p>
@@ -11,7 +10,7 @@
 <img align="right" alt="Data Analyst" width="275" src="da1.gif">
 
 
-## 🧠 About Me
+## 👤 About Me
 
 💡 I'm a passionate **Data Analyst** with a strong foundation in **Economics** and over **6 months** of real-world experience transforming raw data into impactful business insights. I enjoy working with data to solve problems, uncover trends, and support strategic decisions.
 
