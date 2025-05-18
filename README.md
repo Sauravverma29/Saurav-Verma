@@ -1,15 +1,9 @@
-<h1 align="center">Hi there, I'm Saurav Verma 👋</h1>
-<h3 align="center">📊 Aspiring Data Analyst  </h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&center=true&vCenter=true&width=480&lines=Data+Driven.+Detail+Oriented.+Insight+Focused." alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Saurav Verma </h1>
+<h3 align="center">📊 Aspiring Data Analyst 📈 </h3>
+<h3 align="center"> Data Driven. Detail Oriented. Insight Focused.  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions...;Passionate+about+analytics+%26+insights;Let's+transform+raw+data+into+real+impact!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&center=true&vCenter=true&width=600&lines=Data+is+the+new+oil%2C+but+insight+is+the+refinery.%3BWhere+others+see+numbers%2C+I+see+opportunity.%3BFrom+datasets+to+decisions+%E2%80%94+let+data+drive+the+future." alt="Typing SVG" />
 </p>
 
 ---
@@ -40,32 +34,45 @@
 
 ---
 
+## 🏢 Work Experience
+
+### 📍 Data Analyst Intern  
+**Ai Variant, Bangalore**  
+*Dec 2024 – Present*
+
+- 🤝 Collaborated on cross-functional team projects in **banking** and **e-commerce** domains, including **Loan Analytics**, **Debit & Credit Analysis**, and **Olist Store Performance**.
+- 🧹 Conducted thorough **data cleaning, transformation, and modeling** on large and complex datasets to ensure accuracy and usability.
+- 📊 Developed interactive **dashboards** to visualize key insights, enhancing **stakeholder engagement**.
+- 🧠 Presented analytical findings and data-driven recommendations through **detailed presentations**.
+
+---
 ## 💼 Projects Showcase
 
-### 📊 [Superstore Performance Analysis](https://github.com/Sauravverma29/Superstore-Performance-Analysis)
-- ✅ Visualized sales, profit, and order trends with **Tableau**
-- 📍 Used geospatial mapping and filters for dynamic dashboards
-- 💡 Proposed strategies like price adjustment & return policy refinement
-
----
-
-### 📉 [Financial Performance Analysis](https://github.com/Sauravverma29/Financial-Performance-Analysis)
-- 📈 Analyzed revenue trends, profit gaps using **Power BI**
-- 💡 Suggested discount optimization to improve profit margins
-
----
-
 ### 🏦 [Banking Data Analysis](https://github.com/Sauravverma29/Banking-Data-Analysis)
-- 💾 Cleaned and modeled loan, credit, and transaction data
-- 📊 Built dashboards for fraud detection and branch performance review
+- 💾 Cleaned and modeled loan, credit, and transaction data.
+- 📊 Built dashboards for fraud detection and branch performance review.
 
 ---
 
 ### 🛒 [Olist E-Commerce Insights](https://github.com/Sauravverma29/Olist-Store-Analysis)
-- 🧼 Preprocessed large Olist dataset for performance tracking
-- 📈 Delivered actionable insights on customer behavior and seller metrics
+- 🧼 Preprocessed large Olist dataset for performance tracking.
+- 📈 Delivered actionable insights on customer behavior and seller metrics.
 
 ---
+
+### 📊 [Superstore Performance Analysis](https://github.com/Sauravverma29/Superstore-Performance-Analysis)
+- ✅ Visualized sales, profit, and order trends with **Tableau**.
+- 📍 Used geospatial mapping and filters for dynamic dashboards.
+- 💡 Proposed strategies like price adjustment & return policy refinement.
+
+---
+
+### 💰 [Financial Performance Analysis](https://github.com/Sauravverma29/Financial-Performance-Analysis)
+- 📈 Analyzed revenue trends, profit gaps using **Power BI**.
+- 💡 Suggested discount optimization to improve profit margins.
+
+---
+
 
 
 ## 🎓 Education
@@ -82,10 +89,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-verma29)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sauravverma29)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauravverma1369@gmail.com)
+[![Naukri](https://img.shields.io/badge/-Naukri-0073B1?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/homepage)
+
 
 </div>
 
 ---
 
 
-> *"Turning data into decisions, one insight at a time."* 💡
+> *“Data reveals what intuition can miss. I’m driven by curiosity, guided by analysis, and focused on impact.”*  💡
