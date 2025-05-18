@@ -6,9 +6,7 @@
 </p>
 
 ---
-
-<img align="right" alt="Data Analyst" width="275" src="da1.gif">
-
+<img align="right" alt="Data Analyst" width="250" src="da1.gif">
 
 ## 👤 About Me
 
