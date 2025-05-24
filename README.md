@@ -45,7 +45,7 @@
 ---
 ## 💼 Projects Showcase
 
-### 🏦 [Banking Data Analysis](https://github.com/Sauravverma29/Banking-Data-Analysis)
+### 🏦 [Banking Data Analysis](https://github.com/Sauravverma29/Bank-Analytics)
 - 💾 Cleaned and modeled loan, credit, and transaction data.
 - 📊 Built dashboards for fraud detection and branch performance review.
 
