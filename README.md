@@ -74,7 +74,7 @@
 
 ## 🎓 Education
 
-- 🎓 **M.A. in Economics** – Patna University *(2020 – Dec 2025)*
+- 🎓 **M.A. in Economics** – Patna University *(2020 – Dec 2022)*
 - 🎓 **B.A. in Economics** – Patna University *(2017 – Feb 2020)*
 
 ---
